@@ -1,0 +1,11 @@
+proxy infor
+user name:
+jamesnelson654321@yahoo.com
+password:
+ArtemY1234@
+
+
+pip install virtualenv
+virtualenv venv
+./venv/scripts/activate
+python script
